@@ -70,7 +70,6 @@
       "modName": "Modern Industrialization", 
       "desc": "Translucent things may not be occluded when rendering a portal." 
     },
-    { "modId": "create", "modName": "Create", "desc": "Sometimes some contraptions will be invisible." },
     { 
       "modId": "twilightforest", 
       "modName": "Twilight Forest", 
